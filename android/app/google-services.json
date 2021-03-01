@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078165711230",
+    "firebase_url": "https://owaisclothing.firebaseio.com",
+    "project_id": "owaisclothing",
+    "storage_bucket": "owaisclothing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078165711230:android:fc790e03a59e7158f5eb2f",
+        "android_client_info": {
+          "package_name": "com.socioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078165711230-965g4qsra4t7ajp7lcj7co9pv684rcnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1tIMEUO0Z3zOORGO8yupKw94E_TlU2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078165711230-965g4qsra4t7ajp7lcj7co9pv684rcnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
